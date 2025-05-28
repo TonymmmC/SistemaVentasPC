@@ -1,0 +1,1 @@
+[28-May-2025 11:55:50 America/La_Paz] PHP Fatal error:  Cannot redeclare SessionManager::getUsername() in C:\xampp\htdocs\SistemaVentasPC\config\session.php on line 60
