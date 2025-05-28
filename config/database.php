@@ -7,7 +7,7 @@
 class Database {
     // Configuración de la base de datos
     private $host = "localhost";
-    private $db_name = "sistemaventaspc";
+    private $db_name = "tienda_pc";
     private $username = "root";
     private $password = "";
     private $charset = "utf8mb4";
